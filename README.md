@@ -1,8 +1,8 @@
 # Orbits-Project-Results
 The following is the result of the pipeline I have built to compute the Ephemeris of an object in the Solar System. The pipeline takes three sets observations(each  set containing a time of observation, right ascension and declination), begining date, time interval and number of outputs required. 
 
-The finalpipeline.py contains the complete pipeline.
-The finalpipeline.ipynb is the Jupyter NB of the above pipeline. You can easily access the notebook from NBViewer.
+The Final_Ephemeris_Pipeline.py contains the complete pipeline.
+The Final_Ephemeris_Pipeline.ipynb is the Jupyter NB of the above pipeline. You can easily access the notebook from NBViewer.
 
 Here is the result of an attempt to compute the Orbital Elements and Ephemeris from real data from JPL's HORIZONS.
 
